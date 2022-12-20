@@ -6,7 +6,7 @@ ElemeNT ([Sloutskin et al., 2015](http://dx.doi.org/10.1080/21541264.2015.106728
 
 ```
 ktrn-06-03-1067286-s001.zip -     Zip archive of raw supplemental files.
-*.csv                       -     Core promoter element PWMs in csv format. Converted from xlsx sheet.
-conversion_script.py        -     Converts csv files to txt files like those downloaded from CisBP.
+*.csv                       -     Core promoter element PWMs in csv format.
+conversion_script.py        -     Converts csv files to txt files like from CisBP.
 core_promoter_pwms.zip      -     Zip archive of conversion_script.py output.
 ```
